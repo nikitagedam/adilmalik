@@ -1,1 +1,1 @@
-# adilmalik
+# django_prj
